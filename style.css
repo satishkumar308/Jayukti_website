@@ -452,4 +452,12 @@ footer {
     .footer-grid {
         grid-template-columns: 1fr;
     }
+    .modal-content {
+        width: 95%;
+        padding: 1.5rem;
+        margin: 10% auto;
+    }
+    .profiles-grid {
+        grid-template-columns: 1fr;
+    }
 }
